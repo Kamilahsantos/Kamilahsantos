@@ -9,3 +9,11 @@ Would you like to find me?
 
 
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkamilah_santos)](https://twitter.com/kamilah_santos)
+
+[Linkedin](https://www.linkedin.com/in/kamila-santos-oliveira/)
+
+[dev.to](https://dev.to/kamilahsantos)
+
+[SpeakerDeck](https://speakerdeck.com/kamilahsantos)
+
+
