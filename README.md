@@ -8,6 +8,4 @@ I am coordinator of the communities WomakersCode, NerdZao, Perifacode and DevsJa
 Would you like to find me?
 
 
-![Linkedin ](https://image.flaticon.com/icons/png/512/174/174857.png)
-
-
+[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkamilah_santos)](https://twitter.com/kamilah_santos)
