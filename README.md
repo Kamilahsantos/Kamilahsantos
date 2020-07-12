@@ -8,3 +8,6 @@ I am coordinator of the communities WomakersCode, NerdZao, Perifacode and DevsJa
 Would you like to find me?
 
 
+![Linkedin ](https://image.flaticon.com/icons/png/512/174/174857.png)
+
+
