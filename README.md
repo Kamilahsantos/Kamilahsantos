@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ <p>   <img src="http://views.whatilearened.today/views/github/Kamilahsantos/views.svg"/> 
+  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-Java-f55247"/></p>
+
 
 My name is Kamila Santos (she/her) from Brazil (🇧🇷). I'm Backend Developer at [Ame Digital](https://www.amedigital.com/). 
 
@@ -7,6 +11,12 @@ I am coordinator of the communities WomakersCode, NerdZao, Perifacode and DevsJa
 
 
 ![Kamila's github stats](https://github-readme-stats.vercel.app/api?username=Kamilahsantos&show_icons=true&theme=radical)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilahsantos&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkamilah_santos)](https://twitter.com/kamilah_santos)
