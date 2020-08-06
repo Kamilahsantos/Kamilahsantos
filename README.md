@@ -21,6 +21,14 @@ I am coordinator of the communities WomakersCode, NerdZao, Perifacode and DevsJa
 
 
 
+##  About me
+
+- Name: Kamila Santos
+- Pronouns: she/her
+- Twitter: [@kamilah_santos](https://twitter.com/kamilah_santos)
+- Presentations: [speakerdeck.com/kamilahsantos](https://speakerdeck.com/kamilahsantos)
+- LinkedIn: [linkedin.com/in/kamila-santos-oliveira](https://www.linkedin.com/in/kamila-santos-oliveira)
+
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkamilah_santos)](https://twitter.com/kamilah_santos)
 
 [Linkedin](https://www.linkedin.com/in/kamila-santos-oliveira/)
