@@ -9,7 +9,7 @@
 
 My name is Kamila Santos (she/her) from Brazil (🇧🇷). I'm Backend Developer at [Ame Digital](https://www.amedigital.com/). 
 
-I am coordinator of the communities WomakersCode, NerdZao, Perifacode and DevsJavaGirl
+I am coordinator of WomakersCode, NerdZao, Perifacode and DevsJavaGirl  tech communities
 
 
 ![Kamila's github stats](https://github-readme-stats.vercel.app/api?username=Kamilahsantos&show_icons=true&theme=radical)
