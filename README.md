@@ -17,7 +17,7 @@ I am coordinator of WomakersCode, NerdZao, Perifacode and DevsJavaGirl  tech com
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilahsantos&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilahsantos&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
