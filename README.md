@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/cover-github.png)  
 
  <p>   <img src="http://views.whatilearened.today/views/github/Kamilahsantos/views.svg"/> 
