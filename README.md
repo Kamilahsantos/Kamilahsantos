@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/capa%20github.png)  
+![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/cover-github.png)  
 
  <p>   <img src="http://views.whatilearened.today/views/github/Kamilahsantos/views.svg"/> 
   <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
@@ -9,8 +9,6 @@
 <a href="https://github.com/Kamilahsantos/"><img src="https://img.shields.io/github/followers/Kamilahsantos?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/Kamilahsantos?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-
-My name is Kamila Santos (she/her) from Brazil (🇧🇷). I'm Backend Developer at [Ame Digital](https://www.amedigital.com/). 
 
 I am coordinator of WomakersCode, NerdZao, Perifacode and DevsJavaGirl  tech communities
 
