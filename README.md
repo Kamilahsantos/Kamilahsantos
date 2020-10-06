@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/Hello%2C%20my%20name%20is%20Kamila.%20Nice%20to%20meet%20you..png)  
+![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/capa%20github.png)  
 
  <p>   <img src="http://views.whatilearened.today/views/github/Kamilahsantos/views.svg"/> 
   <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
