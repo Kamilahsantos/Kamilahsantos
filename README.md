@@ -1,13 +1,11 @@
-![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/cover-github.png)  
 
  <p>   <img src="http://views.whatilearened.today/views/github/Kamilahsantos/views.svg"/> 
   <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
     <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
 <a href="https://github.com/Kamilahsantos/"><img src="https://img.shields.io/github/followers/Kamilahsantos?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/Kamilahsantos?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
+![capa github](https://github.com/Kamilahsantos/Kamilahsantos/blob/master/cover-github.png)  
 
-
-I am coordinator of WomakersCode, NerdZao, Perifacode and DevsJavaGirl  tech communities
 
 
 ![Kamila's github stats](https://github-readme-stats.vercel.app/api?username=Kamilahsantos&show_icons=true&theme=radical)
