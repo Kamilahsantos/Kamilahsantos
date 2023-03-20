@@ -23,7 +23,7 @@
 - Name: Kamila Santos
 - Pronouns: she/her
 - Youtube [Kamila code](https://www.youtube.com/channel/UCcekbLGhqBt-8sXi6fI65Ag)
-- Twitter: [@kamilah_santos](https://twitter.com/kamilah_santos)
+- Twitter: [@kamilah_santos](https://twitter.com/kamila_code)
 - Presentations: [speakerdeck.com/kamilahsantos](https://speakerdeck.com/kamilahsantos)
 - LinkedIn: [linkedin.com/in/kamila-santos-oliveira](https://www.linkedin.com/in/kamila-santos-oliveira)
 
