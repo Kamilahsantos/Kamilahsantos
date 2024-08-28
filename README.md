@@ -25,6 +25,7 @@
 - Twitter: [@kamila_code](https://twitter.com/kamila_code)
 - Presentations: [speakerdeck.com/kamilahsantos](https://speakerdeck.com/kamilahsantos)
 - LinkedIn: [linkedin.com/in/kamila-santos-oliveira](https://www.linkedin.com/in/kamila-santos-oliveira)
+- Instagram: [kamila_code](https://www.instagram.com/kamila_code)
 
 
 
